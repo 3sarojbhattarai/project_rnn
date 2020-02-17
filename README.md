@@ -7,6 +7,27 @@ which covers different types of RNN PRojects.
 
 
 
+# Local Development
+* Clone this repository to your local machine
+  ```shell
+  git clone https://github.com/thevirusx3/RNN-Projects/
+  ```
+
+* In the directory where you placed the cloned repo, create a virtual environment for Python:
+  ```shell
+  pip install virtualenv 
+  virtualenv -p python3 venv
+  ```
+* Activate your virtual environment
+  ```shell
+  source venv/bin/activate
+  ```
+
+* Install all required packages:
+  ```shell
+  pip install -r requirements.txt
+  ```
+
 
 
 # Papers
@@ -16,10 +37,6 @@ which covers different types of RNN PRojects.
  
  
 # Videos
-
-
-
-
 
 # References
 1. [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
