@@ -1,6 +1,15 @@
-Project1/datasets/
-Project2/datasets/
-Project3/datasets/
-Project4/datasets/
-Project5/datasets/
+
+#Datasets
+model/Project1/datasets/
+model/Project2/datasets/
+model/Project3/datasets/
+model/Project4/datasets/
+model/Project5/datasets/
+
+#Virtual Environment
+venv
+
+
+
+#
 
