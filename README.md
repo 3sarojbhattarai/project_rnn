@@ -6,6 +6,11 @@ which covers different types of RNN PRojects.
 # Overview
 
 
+# Contributions
+You can contribute in web app and RNN model and send me a pull requests.
+
+Cheers !!!
+
 
 # Local Development
 * Clone this repository to your local machine
