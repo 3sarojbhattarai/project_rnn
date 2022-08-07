@@ -4,7 +4,11 @@ These are the projects build with Recurrent Neural Network(RNN) using Tensorflow
 which covers different types of RNN PRojects.
 
 # Overview
-
+ Currently there are five projects  which covers different types of RNN Projects.The project includes 
+ 1. Stock Market Prediction
+ 2. Multi-Step Time Series Forecasting
+ 3. Automated Essay Grading
+ 4. Machine Language Translation(Seq to Seq model, and Attention Mechanism). 
 
 # Contributions
 You can contribute in web app and RNN model and send me a pull requests.
