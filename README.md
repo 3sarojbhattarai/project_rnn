@@ -1,8 +1,6 @@
 # RNN-Projects
 
-These are the projects build with Recurrent Neural Network(RNN) using Tensorflow 2. Currently there are five projects 
-which covers different types of RNN PRojects.
-
+These are the projects build with Recurrent Neural Network(RNN) using Tensorflow 2.
 # Overview
  Currently there are five projects  which covers different types of RNN Projects.The project includes 
  1. Stock Market Prediction
@@ -19,7 +17,7 @@ Cheers !!!
 # Local Development
 * Clone this repository to your local machine
   ```shell
-  git clone https://github.com/thevirusx3/RNN-Projects/
+  git clone https://github.com/thevirusx3/project_rnn/
   ```
 
 * In the directory where you placed the cloned repo, create a virtual environment for Python:
