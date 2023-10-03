@@ -17,7 +17,7 @@ Cheers !!!
 # Local Development
 * Clone this repository to your local machine
   ```shell
-  git clone https://github.com/thevirusx3/project_rnn/
+  git clone https://github.com/3sarojbhattarai/project_rnn/
   ```
 
 * In the directory where you placed the cloned repo, create a virtual environment for Python:
